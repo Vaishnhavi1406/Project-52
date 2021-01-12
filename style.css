@@ -1,0 +1,101 @@
+.mypic p
+{
+	text-align: center;
+    color: white;	
+}
+
+img {width : 300px;
+height : 300px;
+}
+
+.cake h1
+{
+	text-align: center;
+	background-color: pink;
+}
+
+.bg 
+{
+  background: red;	
+  
+  position : relative;
+}
+
+.bg h1 
+{
+	color: white;
+}
+
+.bg h2 
+{
+  color : white;	
+}
+
+.intro p
+{
+	color : white;
+	
+	position : absolute;
+	
+	transform : translate (-50%,-50%);
+	
+	left : 10%;
+
+    top	: 10%;
+}
+
+.intro:hover p{
+ opacity:  1; 	
+}
+
+.mypic:hover img{
+  opacity: 0.33;	
+}
+
+.book2 img
+{width : 300px;
+	height : 300px;
+}
+
+.reviews
+{
+	background-color : blue;
+	color : white;
+}
+
+.reading
+{
+	background-color : green;
+	color : white;
+}
+
+.about
+{
+	background-color : orange;
+	color : yellow;
+}
+
+.pictures
+{
+	background-color : yellow;
+}
+
+.bookpic1:hover img
+{
+	opacity : 0.33;
+}
+
+.bookpic2:hover img
+{
+	opacity : 0.33;
+}
+
+.book1:hover img
+{
+	opacity : 0.45;
+}
+
+.book2:hover img
+{
+	opacity : 0.45;
+}
